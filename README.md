@@ -1,6 +1,11 @@
 # 최용욱 *YongWook Choi*
-🪐 Server Developer  
+🪐 BackEnd Developer  
 👨‍🏫 Kyunghee Univ. Computer Engineering    
+
+안녕하세요 **개발자 최용욱** 입니다.
+
+**Spring Boot** 를 주력으로 사용하여 백앤드 개발을 하고 있습니다.
+
 
 <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-F58219?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-6AAE3D?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
